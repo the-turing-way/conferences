@@ -12,7 +12,6 @@ on:
 env:
   # The label assigned to talks issues
   TALK_LABEL: "talks-and-workshops"
-  # The label to assign to the new issue reagrding the newsletter
 
 jobs:
   close-talk-issues:
